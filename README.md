@@ -1,6 +1,6 @@
 # Ko
 
-Personal Project. A web framework refer to Gin.
+Personal Project. A web framework for referencing the Gin.
 
 ## Get Started
 
